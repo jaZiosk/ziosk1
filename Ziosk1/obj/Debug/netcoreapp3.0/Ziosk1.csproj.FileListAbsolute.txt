@@ -1,0 +1,11 @@
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/data/LA_Full_Service_Restaurants.csv
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1.deps.json
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1.runtimeconfig.json
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1.runtimeconfig.dev.json
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1.dll
+/Users/ja/Projects/Ziosk1/Ziosk1/bin/Debug/netcoreapp3.0/Ziosk1.pdb
+/Users/ja/Projects/Ziosk1/Ziosk1/obj/Debug/netcoreapp3.0/Ziosk1.AssemblyInfoInputs.cache
+/Users/ja/Projects/Ziosk1/Ziosk1/obj/Debug/netcoreapp3.0/Ziosk1.AssemblyInfo.cs
+/Users/ja/Projects/Ziosk1/Ziosk1/obj/Debug/netcoreapp3.0/Ziosk1.dll
+/Users/ja/Projects/Ziosk1/Ziosk1/obj/Debug/netcoreapp3.0/Ziosk1.pdb
